@@ -1,3 +1,6 @@
+// Created by MC
+// 19.07.2019
+
 int l1 = 200;
 int l2 = 200;
 int m1 = 20;
